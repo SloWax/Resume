@@ -6,8 +6,9 @@
 
 - 기간 : 2020.10 ~ 2020.12
 - 소속 : 개인
-- 개발인원 : 2명 
-- 역할 : iOS
+- 개발 : 1명
+- 기획 : 1명 
+- 역할 : iOS 개발
 - 사용기술 : Swift, Zeplin
 - 코드 : https://github.com/SloWax/ForPigPyo-App
 
@@ -50,8 +51,9 @@
 
 - 기간 : 2020.08 ~ 2020.10
 - 소속 : 패스트 캠퍼스
-- 개발인원 : 6명 
-- 역할 : iOS
+- iOS 개발 : 4명
+- BackEnd 개발 : 2명 
+- 역할 : iOS 개발
 - 사용기술 : Swift
 - 코드 : https://github.com/YogiyoCloneTeamProject/YogiYoCloneIOS
 
