@@ -2,7 +2,7 @@
 
 -----
 
-## 2. 모두의 앱
+## 3. 모두의 앱
 
 - 기간 : 2020.10 ~ 2020.12
 - 소속 : 개인
@@ -30,10 +30,11 @@
 
 ### 라이브러리 및 프레임워크
 
+- `SwiftLint`
 - `SnapKit`
+- `GoogleMobileAds`
 - `MobileCoreServices`
 - `MessageUI`
-- `GoogleMobileAds`
 
 <p align="center">
 <img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841107-79dd6980-6017-11eb-9af0-9f457b08ae38.gif">
@@ -43,6 +44,38 @@
 <img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841513-130c8000-6018-11eb-9d8d-087d3130d05b.gif">
 <img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841517-14d64380-6018-11eb-8e18-ff4b79215537.gif">
 <img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841523-16a00700-6018-11eb-885f-7b78e5d51bc0.gif">
+</p>
+
+-----
+
+## 2. 모두의 깨끗함
+
+- 기간 : 2020.08 ~ 재진행중
+- 소속 : 개인
+- 개발 : 1명
+- 기획 : 1명 
+- 역할 : iOS 개발
+- 사용기술 : Swift, Zeplin
+- 코드 : https://github.com/SloWax/Clean-App
+
+### 앱 내용
+
+- 청소방법과 가사분담을 위한 앱
+- App Store : 
+
+### 구현 내용
+
+- `Swift`를 활용한 MVC 아키텍처 기반
+- `Snapkit`을 활용한 Autolayout
+- Code기반 UI 구성
+
+### 라이브러리 및 프레임워크
+
+- `SwiftLint`
+- `SnapKit`
+- `FSCalenda`
+
+<p align="center">
 </p>
 
 -----
