@@ -22,16 +22,18 @@
 
 ### 구현 내용
 
-- `Swift`를 활용한 MVC 아키텍처 기반
-- `Userdefaults, JSON Parsing`을 이용한 Data 저장(로그인 기능 구현 시 저장방식 변경 예정)
-- `GoogleMobileAds-SDK`를 활용한 배너, 전면광고
-- `Snapkit`을 활용한 Autolayout
+- MVC 아키텍처 기반
 - Code기반 UI 구성
+- `Snapkit`을 활용한 Autolayout
+- `Userdefaults, JSON Parsing`을 활용한 Data 저장
+- `Sign in with Apple, Firebase`를 활용한 Data 백업(21.02 ~ 구현중)
+- `GoogleMobileAds-SDK`를 활용한 배너, 전면광고
 
 ### 라이브러리 및 프레임워크
 
 - `SwiftLint`
 - `SnapKit`
+- `AuthenticationServices`
 - `GoogleMobileAds`
 - `MobileCoreServices`
 - `MessageUI`
@@ -65,9 +67,9 @@
 
 ### 구현 내용
 
-- `Swift`를 활용한 MVC 아키텍처 기반
-- `Snapkit`을 활용한 Autolayout
+- MVC 아키텍처 기반
 - Code기반 UI 구성
+- `Snapkit`을 활용한 Autolayout
 
 ### 라이브러리 및 프레임워크
 
@@ -97,12 +99,12 @@
 
 ### 구현 내용
 
-- `Swift`를 활용한 MVC 아키텍처 기반
+- MVC 아키텍처 기반
+- Code기반 UI 구성
+- `Snapkit`을 활용한 Autolayout
 - `Alamofire`를 이용한 `RESTful API` 연동과 비동기처리
 - `KakaoRestAPI`를 활용한 주소검색 기능 구현
 - `GoogleMaps SDK`를 통해 지도와 현 위치, 현재 위치 주소 찾기 기능 구현
-- `Snapkit`을 활용한 Autolayout
-- Code기반 UI 구성
 
 ### 라이브러리 및 프레임워크
 
