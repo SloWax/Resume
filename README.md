@@ -34,7 +34,7 @@
 - `SwiftLint`
 - `SnapKit`
 - `AuthenticationServices`
-- `FirebaseFirestoreSwift`
+- `Firebase/FirestoreSwift`
 - `GoogleMobileAds`
 - `MobileCoreServices`
 - `MessageUI`
