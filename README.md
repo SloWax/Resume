@@ -17,7 +17,7 @@
 - 유저의 건의사항이 기획이 되어 함께 만들어가는 앱
 - 알바시간계산기, 저축 관리 기능
 - 2020.12.15 v1.0 배포
-- 현재 v2.0.0
+- 현재 v2.1.0
 - App Store : https://apps.apple.com/app/id1544430902
 
 ### 구현 내용
@@ -26,7 +26,7 @@
 - Code기반 UI 구성
 - `Snapkit`을 활용한 Autolayout
 - `Userdefaults, JSON Parsing`을 활용한 Data 저장
-- `Sign in with Apple, FirebaseFirestore`를 활용한 Data 백업 및 동기화
+- `Sign in with Apple, Firebase/Firestore`를 활용한 Data 백업 및 동기화
 - `GoogleMobileAds-SDK`를 활용한 배너, 전면광고
 
 ### 라이브러리 및 프레임워크
@@ -34,7 +34,7 @@
 - `SwiftLint`
 - `SnapKit`
 - `AuthenticationServices`
-- `FirebaseFirestoreSwift`
+- `Firebase/FirestoreSwift`
 - `GoogleMobileAds`
 - `MobileCoreServices`
 - `MessageUI`
