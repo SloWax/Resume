@@ -26,7 +26,7 @@
 - Code기반 UI 구성
 - `Snapkit`을 활용한 Autolayout
 - `Userdefaults, JSON Parsing`을 활용한 Data 저장
-- `Sign in with Apple, Firebase`를 활용한 Data 백업(21.02 ~ 구현중)
+- `Sign in with Apple, FirebaseFirestore`를 활용한 Data 백업 및 동기화
 - `GoogleMobileAds-SDK`를 활용한 배너, 전면광고
 
 ### 라이브러리 및 프레임워크
@@ -34,6 +34,7 @@
 - `SwiftLint`
 - `SnapKit`
 - `AuthenticationServices`
+- `FirebaseFirestoreSwift`
 - `GoogleMobileAds`
 - `MobileCoreServices`
 - `MessageUI`
