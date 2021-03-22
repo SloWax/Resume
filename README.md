@@ -2,6 +2,37 @@
 
 -----
 
+## 4. 모두의 깨끗함
+
+- 기간 : 2020.08 ~ 재진행중
+- 소속 : 개인
+- 개발 : 1명
+- 기획 : 1명 
+- 역할 : iOS 개발
+- 사용기술 : Swift, Zeplin
+- 코드 : https://github.com/SloWax/Clean-App
+
+### 앱 내용
+
+- 청소방법과 가사분담을 위한 앱
+- App Store : 
+
+### 구현 내용
+
+- Code기반 UI 구성
+- `Snapkit`을 활용한 Autolayout
+
+### 라이브러리 및 프레임워크
+
+- `SwiftLint`
+- `SnapKit`
+- `FSCalenda`
+
+<p align="center">
+</p>
+
+-----
+
 ## 3. 모두의 앱
 
 - 기간 : 2020.10 ~ 2020.12
@@ -52,34 +83,41 @@
 
 -----
 
-## 2. 모두의 깨끗함
+## 2. WeatherForecast
 
-- 기간 : 2020.08 ~ 재진행중
+- 기간 : 2021.03
 - 소속 : 개인
 - 개발 : 1명
-- 기획 : 1명 
 - 역할 : iOS 개발
-- 사용기술 : Swift, Zeplin
-- 코드 : https://github.com/SloWax/Clean-App
+- 사용기술 : Swift
+- 코드 : https://github.com/SloWax/WeatherForecast
 
 ### 앱 내용
 
-- 청소방법과 가사분담을 위한 앱
-- App Store : 
+- MVVM 연습용 토이프로젝트
+- 현재위치의 일기예보 앱
 
 ### 구현 내용
 
-- MVC 아키텍처 기반
+- MVVM 아키텍처 기반
 - Code기반 UI 구성
 - `Snapkit`을 활용한 Autolayout
+- `CoreLocation`을 활용한 현재위치 확인
+- 날씨정보 `Restful API`사용
+- `SwiftyJSON`을 이용한 JSON 파싱
+- `Alamofire`를 활용한 비동기, Post
 
 ### 라이브러리 및 프레임워크
 
-- `SwiftLint`
-- `SnapKit`
-- `FSCalenda`
+- `CoreLocation`
+- `Snapkit`
+- `SwiftyJSON`
+- `Alamofire`
 
 <p align="center">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/112252983-5ba38b00-8ca1-11eb-9db7-cc0f4815854d.PNG">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/112252995-5fcfa880-8ca1-11eb-9958-9321b38fc348.PNG">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/112252997-60683f00-8ca1-11eb-9c76-fde9dbcd9626.PNG">
 </p>
 
 -----
