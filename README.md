@@ -2,9 +2,9 @@
 
 -----
 
-## 4. 모두의 깨끗함
+## 4. 모두의 깨끗함(가제)
 
-- 기간 : 2020.08 ~ 재진행중
+- 기간 : 진행중
 - 소속 : 개인
 - 개발 : 1명
 - 기획 : 1명 
@@ -19,13 +19,15 @@
 
 ### 구현 내용
 
-- Code기반 UI 구성
 - `Snapkit`을 활용한 Autolayout
+- MVVM 아키텍처 기반
+- 
 
 ### 라이브러리 및 프레임워크
 
 - `SwiftLint`
 - `SnapKit`
+- `RxSwift`
 - `FSCalenda`
 
 <p align="center">
