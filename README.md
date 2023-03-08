@@ -28,7 +28,7 @@
 ### blabla (21.03 ~ 21.11)
 - 소속 : 블라블라ENM
 - 역할 : iOS 앱 개발
-- 사용기술 : Swift, RxSwift, StoryBoard
+- 사용기술 : Swift, StoryBoard, RxSwift
 
 <p align="center">
 <img width="200" alt="7" src=https://user-images.githubusercontent.com/62653558/177240529-3c4087b9-ab6a-4eed-9a14-f1992e6e29b3.png>
