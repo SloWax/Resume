@@ -3,10 +3,21 @@
 
 ## 회사 프로젝트
 
-### 카수리 (21.12 ~ )
+### Rubys (22.11 ~ 23.02)
+- 소속 : 베노프하우스
+- 역할 : iOS 앱 개발 리더
+- 사용기술 : Swift, UIKit, RxSwift
+
+<p align="center">
+<img width="200" alt="7" src=https://user-images.githubusercontent.com/62653558/223686998-6cb5615d-6337-45b1-bcbb-09962421c3c6.png>
+</p>
+
+-----
+
+### 카수리 (21.12 ~ 22.08)
 - 소속 : 카랑
 - 역할 : iOS 앱 개발
-- 사용기술 : Swift, RxSwift
+- 사용기술 : Swift, UIKit, RxSwift
 
 <p align="center">
 <img width="200" alt="7" src=https://user-images.githubusercontent.com/62653558/177249833-40fd64c4-8bab-4ef6-9cb0-bd0734ad4739.png>
@@ -17,7 +28,7 @@
 ### blabla (21.03 ~ 21.11)
 - 소속 : 블라블라ENM
 - 역할 : iOS 앱 개발
-- 사용기술 : Swift, RxSwift
+- 사용기술 : Swift, RxSwift, StoryBoard
 
 <p align="center">
 <img width="200" alt="7" src=https://user-images.githubusercontent.com/62653558/177240529-3c4087b9-ab6a-4eed-9a14-f1992e6e29b3.png>
@@ -31,9 +42,8 @@
 
 청소방법과 가사분담을 위한 앱
 
-- 기간 : 2022.06 ~ 진행중
 - 역할 : iOS 개발
-- 사용기술 : Swift, RxSwift, Zeplin
+- 사용기술 : Swift, RxSwift
 - App Store : 
 
 <p align="center">
@@ -45,9 +55,8 @@
 
 유저의 건의사항이 기획이 되어 함께 만들어가는 앱(기능: 알바시간계산기, 저축 관리)
 
-- 기간 : 2020.10 ~ 2020.12 (리팩토링 후 재 출시 예정)
 - 역할 : iOS 개발
-- 사용기술 : Swift, Zeplin
+- 사용기술 : Swift
 - App Store : https://apps.apple.com/app/id1544430902
 
 <p align="center">
@@ -67,7 +76,6 @@
 
 MVVM 연습용 토이프로젝트, 현재위치의 일기예보 앱
 
-- 기간 : 2021.03
 - 역할 : iOS 개발
 - 사용기술 : Swift
 
@@ -83,10 +91,8 @@ MVVM 연습용 토이프로젝트, 현재위치의 일기예보 앱
 
 음식배달 서비스를 제공하는 요기요의 iOS App Clone 프로젝트
 
-- 기간 : 2020.08 ~ 2020.10
-- 소속 : 패스트 캠퍼스
-- iOS 개발 : 4명
-- BackEnd 개발 : 2명 
+- iOS : 4명
+- BackEnd : 2명 
 - 역할 : iOS 개발
 - 사용기술 : Swift
 
