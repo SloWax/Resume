@@ -5,7 +5,7 @@
 
 ### Rubys (22.11 ~ 23.02)
 - 소속 : 베노프하우스
-- 역할 : iOS 앱 개발 리더
+- 역할 : iOS 앱 개발
 - 사용기술 : Swift, UIKit, RxSwift
 
 <p align="center">
