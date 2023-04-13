@@ -38,36 +38,28 @@
 
 ## 개인 프로젝트
 
-### 4. 넌밥난설거지(가제)
+### 3. 티끌모아월급
 
-청소방법과 가사분담을 위한 앱
+알바시간 개인화 계산 앱(예상급여, 공제액 계산)
 
-- 역할 : iOS 개발
-- 사용기술 : Swift, RxSwift
-- App Store : 
+- 사용기술 : Swift, UIKit, RxSwift, Realm, Firebase
+- App Store : https://apps.apple.com/app/id1544430902
+- GitHub : https://github.com/SloWax/ForPigPyo-App
 
 <p align="center">
+<img width="300" alt="7" src="https://user-images.githubusercontent.com/62653558/105839673-3124b100-6015-11eb-9b60-db719307cecf.png">
 </p>
 
------
-
-### 3. 모두의 앱
-
-유저의 건의사항이 기획이 되어 함께 만들어가는 앱(기능: 알바시간계산기, 저축 관리)
-
-- 역할 : iOS 개발
-- 사용기술 : Swift
-- App Store : https://apps.apple.com/app/id1544430902
-
 <p align="center">
-<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/110213085-e0d92280-7ee1-11eb-8c48-25e4e522b687.gif">
-<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841107-79dd6980-6017-11eb-9af0-9f457b08ae38.gif">
-<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841123-7cd85a00-6017-11eb-941b-b5894566cb08.gif">
-<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841486-0851eb00-6018-11eb-8877-8fa6fff01eef.gif">
-<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841507-10aa2600-6018-11eb-89de-3fca51b0bd8d.gif">
-<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841513-130c8000-6018-11eb-9d8d-087d3130d05b.gif">
-<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/105841517-14d64380-6018-11eb-8e18-ff4b79215537.gif">
-<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/110213094-e898c700-7ee1-11eb-82ae-34bd0d470153.gif">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730517-7ca7fcb8-73d9-4a61-80a8-25ba8d54954f.png">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730531-9a625acc-0582-42e5-9938-d2a8bf6d1671.png">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730558-6bcfaed3-3791-4187-a994-7cb10f9b3895.png">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730572-f6749768-e1a2-4bc9-9365-48c9ed2c779d.png">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730578-837f2bfa-3414-4797-bb44-e92cff8665c6.png">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730582-e2160767-d97b-4cc3-8cbc-b910a3d4695e.png">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730584-f903193a-9b27-47b2-adc5-01b9c7ceec3a.png">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730587-60b25cfb-3ba6-4d37-a51a-fa20193a7aac.png">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730591-d72a67e8-e655-479c-bb7e-f9fa1da680ca.png">
 </p>
 
 -----
@@ -76,7 +68,6 @@
 
 MVVM 연습용 토이프로젝트, 현재위치의 일기예보 앱
 
-- 역할 : iOS 개발
 - 사용기술 : Swift
 
 <p align="center">
