@@ -5,7 +5,7 @@
 
 ### Rubys (22.11 ~ 23.02)
 - 소속 : 베노프하우스
-- 역할 : iOS 앱 개발
+- 역할 : iOS Team / iOS Developer
 - 사용기술 : Swift, UIKit, RxSwift
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 카수리 (21.12 ~ 22.08)
 - 소속 : 카랑
-- 역할 : iOS 앱 개발
+- 역할 : Mobile Team / iOS Developer
 - 사용기술 : Swift, UIKit, RxSwift
 
 <p align="center">
@@ -26,8 +26,8 @@
 -----
 
 ### blabla (21.03 ~ 21.11)
-- 소속 : 블라블라ENM
-- 역할 : iOS 앱 개발
+- 소속 : 블라블라이엔엠
+- 역할 : iOS Developer
 - 사용기술 : Swift, StoryBoard, RxSwift
 
 <p align="center">
