@@ -38,7 +38,7 @@
 
 ## 개인 프로젝트
 
-### 5. EnvyKit
+### 5. EnvyKit(라이브러리)
 
 개인 프로젝트에서 자주 사용되고 필수적인 CommonViews, Extension 모음
 
