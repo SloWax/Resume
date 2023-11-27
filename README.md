@@ -52,7 +52,7 @@
 앱과 위젯을 통해 일기예보와 출근 전 비 소식 알림을 받아볼 수 있습니다.
 앱에 들어간 시점으로부터 24시간 내에 강수 예보를 확인하고 원하는 요일, 시간에 알림을 보내줍니다 :)
 
-- 사용기술 : Swift, SwiftUI, WidgetKit, UIKit, RxSwift, Realm, Lottie, SnapKit
+- 사용기술 : Swift, SwiftUI, WidgetKit, UIKit, Moya/RxSwift, Realm, Lottie, SnapKit
 - AppStore : https://apps.apple.com/app/id6449781300
 - GitHub : https://github.com/SloWax/TakeUmbrella
 
@@ -100,7 +100,7 @@
 
 UIKit의 UIBezierPath로 Chart 구현 연습용 프로젝트, mock 데이터를 활용한 지갑 입출금 내역과 이를 활용한 차트, 알림 앱
 
-- 사용기술 : Swift, UIKit, Moya/RxSwift, SnapKit
+- 사용기술 : Swift, UIKit, RxSwift, SnapKit
 - GitHub : https://github.com/SloWax/UIBezierPath-Chart
 
 <p align="center">
