@@ -38,7 +38,7 @@
 
 ## 개인 프로젝트
 
-### 5. EnvyKit(라이브러리)
+### 8. EnvyKit(라이브러리)
 
 개인 프로젝트에서 자주 사용되고 필수적인 CommonViews, Extension 모음
 
@@ -47,12 +47,12 @@
 
 -----
 
-### 4. 엄마가비온대
+### 7. 엄마가비온대
 
 앱과 위젯을 통해 일기예보와 출근 전 비 소식 알림을 받아볼 수 있습니다.
 앱에 들어간 시점으로부터 24시간 내에 강수 예보를 확인하고 원하는 요일, 시간에 알림을 보내줍니다 :)
 
-- 사용기술 : Swift, SwiftUI, WidgetKit, UIKit, RxSwift, Realm, Lottie
+- 사용기술 : Swift, SwiftUI, WidgetKit, UIKit, RxSwift, Realm, Lottie, SnapKit
 - AppStore : https://apps.apple.com/app/id6449781300
 - GitHub : https://github.com/SloWax/TakeUmbrella
 
@@ -71,11 +71,11 @@
 
 -----
 
-### 3. 티끌모아월급
+### 6. 티끌모아월급
 
 알바시간 개인화 계산 앱(예상급여, 공제액 계산)
 
-- 사용기술 : Swift, UIKit, RxSwift, Realm, Firebase
+- 사용기술 : Swift, UIKit, RxSwift, Realm, Firebase, SnapKit
 - App Store : https://apps.apple.com/app/id1544430902
 - GitHub : https://github.com/SloWax/ForPigPyo-App
 
@@ -92,6 +92,49 @@
 <img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730582-e2160767-d97b-4cc3-8cbc-b910a3d4695e.png">
 <img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730584-f903193a-9b27-47b2-adc5-01b9c7ceec3a.png">
 <img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/231730591-d72a67e8-e655-479c-bb7e-f9fa1da680ca.png">
+</p>
+
+-----
+
+### 5. UIBezierPath-Chart
+
+UIKit의 UIBezierPath로 Chart 구현 연습용 프로젝트, mock 데이터를 활용한 지갑 입출금 내역과 이를 활용한 차트, 알림 앱
+
+- 사용기술 : Swift, UIKit, Moya/RxSwift, SnapKit
+- GitHub : https://github.com/SloWax/UIBezierPath-Chart
+
+<p align="center">
+<img width="200" alt="7" src="https://github.com/SloWax/Resume/assets/62653558/84ff70d7-a09d-4673-a423-a7d1869f0490">
+<img width="200" alt="7" src="https://github.com/SloWax/Resume/assets/62653558/c4493e98-bda8-48f6-8515-61a2db2d05f9">
+<img width="200" alt="7" src="https://github.com/SloWax/Resume/assets/62653558/6f9f0ba3-a435-439f-b27e-e6bb6bc3a89e">
+</p>
+
+-----
+
+### 4. Rx-commerce
+
+Moya/RxSwift 연습용 프로젝트, mock 데이터를 활용한 쇼핑몰 데모 앱
+
+- 사용기술 : Swift, UIKit, Moya/RxSwift, Kingfisher, SnapKit
+- GitHub : https://github.com/SloWax/Rx-commerce
+
+<p align="center">
+<img width="200" alt="7" src="https://github.com/SloWax/Rx-commerce/assets/62653558/bac6c295-56f6-44da-9ce8-d47bbfb77a2a">
+</p>
+
+-----
+
+### 3. MovieSearch
+
+RealmSwift 연습용 프로젝트, 네이버 영화 API를 활용한 영화 검색 및 즐겨찾기 앱
+
+- 사용기술 : Swift, UIKit, RxSwift, Realm, Alamofire, SnapKit
+- GitHub : https://github.com/SloWax/Realm-MovieSearch
+
+<p align="center">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/163088392-f1e7710a-1a7e-411e-b459-2b6a5e3a9aae.PNG">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/163088380-6afde5c8-e483-4a98-8376-e1b4d15d447d.PNG">
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/62653558/163088343-5d2ba883-3eed-43a2-bfe5-d305d1e480e4.PNG">
 </p>
 
 -----
