@@ -124,7 +124,7 @@ Moya/RxSwift 연습용 프로젝트, mock 데이터를 활용한 쇼핑몰 데�
 
 -----
 
-### 3. MovieSearch
+### 3. Realm-MovieSearch
 
 RealmSwift 연습용 프로젝트, 네이버 영화 API를 활용한 영화 검색 및 즐겨찾기 앱
 
