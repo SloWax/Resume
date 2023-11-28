@@ -139,7 +139,7 @@ RealmSwift 연습용 프로젝트, 네이버 영화 API를 활용한 영화 검�
 
 -----
 
-### 2. WeatherForecast
+### 2. MVVM-WeatherForecast
 
 MVVM 연습용 토이프로젝트, 현재위치의 일기예보 앱
 
