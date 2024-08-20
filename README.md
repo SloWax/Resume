@@ -11,7 +11,7 @@
 
 - 사용기술 : Dart, Flutter, Provider, Firebase, SignInWithApple, GoogleSignIn, Lottie
 - AppStore : https://apps.apple.com/app/id6636553552
-- PlayStore : https://play.google.com/store/apps/details?id=com.envy.envyCar(심사중)
+- PlayStore : https://play.google.com/store/apps/details?id=com.envy.envyCar (심사중)
 - GitHub : https://github.com/SloWax/EnvyCar
 
 <p align="center">
